@@ -1,0 +1,46 @@
+/* Write your CSS code here */
+.input-label {
+  font-size: 16px;
+  color: grey;
+}
+
+.password-input-filed {
+  background-color: gray;
+  color: black;
+}
+
+.username-input-filed {
+  background-color: gray;
+  color: black;
+}
+
+.total-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.img-container {
+  width: 60vw;
+  margin: 12px;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  padding: 8px;
+  background-color: #ffffff;
+  height: 600px;
+  width: 33vw;
+}
+
+.img {
+  width: 50vw;
+}
+
+.login-button {
+  color: #ffffff;
+  background-color: blue;
+  padding: 12px;
+  margin: 12px;
+}

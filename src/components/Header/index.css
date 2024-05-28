@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+.navbar {
+  background-color: #ffffff;
+  height: 15vh;
+  min-width: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.img {
+  height: 30px;
+  width: 100px;
+  background-size: cover;
+  margin-right: auto;
+}
+
+.h {
+  color: grey;
+  font-size: 16px;
+}
+
+.h2 {
+  background-color: blue;
+  color: #ffffff;
+  padding: 12px;
+  margin: 4px;
+}
